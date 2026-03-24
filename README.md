@@ -36,13 +36,6 @@ The main objective of this study is to analyze the time series dynamic relations
 - Python / R / Stata / SPSS
 - pandas, statsmodels, matplotlib 
 
-## 📄 Citation
-
-If you use this repository or the analysis, please cite my thesis:
-
-Kaung Si Thu (2025). *Analyzing the Relationship Between 24 Carat Gold Price and Consumer Price Index in Myanmar*. Zenodo. [DOI: 10.5281/zenodo.19190323](https://doi.org/10.5281/zenodo.19190323)  
-[Direct link to record](https://zenodo.org/records/19190323)
-
 ## 👤 Author
 Kaung Si Thu
 
